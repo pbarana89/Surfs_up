@@ -3,11 +3,11 @@ The goal of this project was to determine feasibility to open a surf shop that a
 
 ## Results of the Analysis
 
-![](https://github.com/pbarana89/Surfs_up/blob/main/June_Temperature.PNG)
+![](https://github.com/pbarana89/Surfs_up/blob/main/June_Temps.PNG)
 
 *  The temperatures for June shown above show a mean of almost 75 degrees Fahrenheit with a very small standard deviation. This is not only perfect surfing weather, but great ice cream weather!
 
-![](https://github.com/pbarana89/Surfs_up/blob/main/December_Temperature.PNG)
+![](https://github.com/pbarana89/Surfs_up/blob/main/December_Temps.PNG)
 
 * The temperatures for December shown above show a mean of almost 71 degrees Fahrenheit with another small standard deviation. This is great news because normally when people are thinking of cold things in December, they don't consider surfing or ice cream. In Oahu, you can still be out on the surf enjoying the waves and a cool treat.
 
